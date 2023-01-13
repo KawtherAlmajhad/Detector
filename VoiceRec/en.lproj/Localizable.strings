@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  VoiceRec
+
+  Created by Kawthar Almajhad on 18/06/1444 AH.
+  
+*/
+"welcome_screen_title" = "Welcome";
+"Descrption1" = "Press The Button To Turn On";
+"Descrption2" = "The Voice Detect";
+"enteredName" = "Enter Your First Name";
+"Introduce" = "Provide Your Name";

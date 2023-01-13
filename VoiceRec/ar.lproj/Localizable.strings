@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  VoiceRec
+
+  Created by Kawthar Almajhad on 18/06/1444 AH.
+  
+*/
+"welcome_screen_title" = "مرحباً";
+"Descrption1" = "اضغط على الزر لتشغيل";
+"Descrption2" = "كاشف الصوت";
+"enteredName" = "أدخل أسمك الأول";
+"Introduce" = "عرِفنا بإسمك";
